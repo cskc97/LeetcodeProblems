@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krish/CLionProjects/leetcode/main.cpp
+iostream
+-
+vector
+-
+unordered_set
+-
+unordered_map
+-
+math.h
+-
+queue
+-
+set
+-
+
